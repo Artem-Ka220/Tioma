@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\bin\Debug\net6.0\HelloWorldAnother.exe
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\bin\Debug\net6.0\HelloWorldAnother.deps.json
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\bin\Debug\net6.0\HelloWorldAnother.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\bin\Debug\net6.0\HelloWorldAnother.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\bin\Debug\net6.0\HelloWorldAnother.pdb
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\refint\HelloWorldAnother.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.pdb
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\HelloWorldAnother.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrainsTwo\New Folder\RepoTwo\HelloWorldAnother\obj\Debug\net6.0\ref\HelloWorldAnother.dll
